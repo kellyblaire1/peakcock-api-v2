@@ -1,0 +1,1 @@
+npm install express mysql2 sequelize nodemon dotenv cors bcrypt jsonwebtoken body-parser morgan helmet compression nodemailer multer winston express-validator joi sharp canvas date-fns jimp node-cache socket.io geoip-lite axios express-rate-limit passport passport-google-oauth20 passport-facebook
